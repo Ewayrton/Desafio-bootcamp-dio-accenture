@@ -115,6 +115,13 @@ Sistema Web → EC2
 Banco de Dados → RDS
 Armazenamento de Arquivos → S3
 
+🔗 Links Úteis
+[Documentação Oficial Amazon EC2](https://aws.amazon.com/pt/ec2/)
+
+[Calculadora de Preços AWS](https://calculator.aws/)
+
+[Spring Boot com AWS](https://spring.io/guides/gs/serving-web-content/)
+
 👨‍💻 Autor
 
 Ewayrton Brito de Oliveira
