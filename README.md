@@ -116,6 +116,8 @@ Banco de Dados → RDS
 Armazenamento de Arquivos → S3
 
 🔗 Links Úteis
+Link para apresentação em PDF: https://drive.google.com/file/d/1HDowV5_t2KyUukI7NgwvDRHErM5SQzqw/view?usp=sharing
+
 [Documentação Oficial Amazon EC2](https://aws.amazon.com/pt/ec2/)
 
 [Calculadora de Preços AWS](https://calculator.aws/)
